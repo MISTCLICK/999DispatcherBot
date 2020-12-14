@@ -1,0 +1,19 @@
+{
+  "name": "999dispatcher",
+  "version": "1.0.0",
+  "description": "A bot for dsolesvik by MISTCLICK",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "startDev": "nodemon ."
+  },
+  "author": "MISTCLICK",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "discord.js-commando": "github:discordjs/Commando",
+    "dotenv": "^8.2.0",
+    "git": "^0.1.5",
+    "mongoose": "^5.11.6"
+  }
+}
